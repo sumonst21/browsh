@@ -17,11 +17,11 @@
     "chai": "^4.2.0",
     "copy-webpack-plugin": "^4.6.0",
     "eslint": "^5.8.0",
-    "mocha": "^5.2.0",
+    "mocha": "^10.2.0",
     "prettier": "1.13.7",
     "sinon": "^6.3.5",
     "strip-ansi": "^4.0.0",
-    "web-ext": "^2.9.1",
+    "web-ext": "^7.6.2",
     "webpack": "^4.25.1",
     "webpack-cli": "^3.1.2"
   },
